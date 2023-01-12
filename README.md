@@ -41,3 +41,8 @@
 >Table.AddColumn(#"Colunas Renomeadas3", "idDuracao", each if [duracao] > 80 then 7 else if [duracao] >= 52 then 6 else if [duracao] >= 37 then 5 else if [duracao] >= 22 then 4 else if [duracao] >= 15 then 3 else if [duracao] >= 8 then 2 else if [duracao] >= 1 then 1 else 1),
 
 
+
+# Conclusão
+>A conclusão que conseguimos chegar com esse dashboard é que a estratégia de marketing está funcionando, pois mais de 85% do total de pedidos vira em venda e que se deve investir no produto Affinity 60 Europa Promocional, pois além de ser o mais vendido a Europa é o destino mais procurado. OS clientes que geralmente compram esse produto pagam no PIX com até uma semana de antecedência e a viagem dura até duas semanas.
+
+
