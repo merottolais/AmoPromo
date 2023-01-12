@@ -33,7 +33,7 @@
 > Mes Anterior = CALCULATE( [Total Pedidos],PREVIOUSMONTH(Calendario[Data]))  
 
 
-### Antecedencia
+### Antecedência
 >Table.AddColumn(#"Colunas Renomeadas2", "idAntecedencia", each if [antecedencia] > 80 then 7 else if [antecedencia] >= 52 then 6 else if [antecedencia] >= 37 then 5 else if [antecedencia] >= 22 then 4 else if [antecedencia] >= 15 then 3 else if [antecedencia] >= 8 then 2 else if [antecedencia] >= 1 then 1 else 0),
 
 
