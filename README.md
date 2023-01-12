@@ -12,7 +12,7 @@
 
 
 # Dashboard
-![Dashboard](./images/image_02png)
+![Dashboard](./images/image_02.png)
 
 
 # Códigos em DAX
