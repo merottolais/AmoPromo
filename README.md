@@ -6,13 +6,13 @@
 
 
 
-# Modelo Relacional
+# Modelo Entidade Relacionamento
 ![Modelagem](./images/image_01.png)
 
 
 
 # Dashboard
-![Dashboard](./images/image_012png)
+![Dashboard](./images/image_02png)
 
 
 # Códigos em DAX
